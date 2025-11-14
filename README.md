@@ -369,17 +369,11 @@ Please ensure your code follows the existing style and includes appropriate comm
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@farmersinafield](https://github.com/famersinafield-cmd)
+- Email: famersinafield@gmail.com
 
 ---
 
@@ -396,7 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/yourusername/rupeetrack/issues)
+- Open an [issue](https://github.com/famersinafield-cmd/rupeetrack/issues)
 - Email: support@rupeetrack.com
 
 ---
