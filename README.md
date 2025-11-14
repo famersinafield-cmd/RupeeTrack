@@ -1,55 +1,54 @@
-# RupeeTrack - Expense Tracker App 💰
+# RupeeTrack - Expense Tracker App
 
 <p align="center">A comprehensive Flutter-based mobile expense tracking application with OCR bill scanning, offline-first architecture, and beautiful data visualizations.</p>
 
 ---
 
-## 📱 Overview
+## Overview
 
 **RupeeTrack** is a feature-rich expense tracking mobile application built with Flutter that helps users manage their finances effectively. The app offers intelligent bill scanning using OCR (Optical Character Recognition), offline data persistence with Hive, and insightful analytics with interactive charts. Track your expenses, set monthly budgets, and visualize your spending patterns—all in one beautiful, intuitive interface.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📸 **Smart Bill Scanning**
+### **Smart Bill Scanning**
 - Capture bills using camera or gallery
 - Automatic text extraction using Google ML Kit
 - Extract store name, bill number, date, total amount, and itemized details
 - Attach bill images to transactions for future reference
 
-### 💾 **Offline-First Architecture**
+### **Offline-First Architecture**
 - Local data persistence using Hive database
 - Works completely offline—no internet required
 - Sync pending transactions to remote server when online
-- Fast and responsive user experience
 
-### 📊 **Beautiful Analytics & Visualizations**
+### **Analytics & Visualizations**
 - Interactive pie charts showing spending by category
 - Bar charts for category-wise breakdown
 - Monthly spending goals with progress tracking
 - Visual alerts when exceeding budget limits
 
-### 🏷️ **Category Management**
+### **Category Management**
 - Create custom expense categories
 - Organize transactions by categories
 - Delete categories (with option to uncategorize or delete associated transactions)
 - Expandable category views with transaction lists
 
-### 🔍 **Advanced Search & Filtering**
+### **Search & Filtering**
 - Search transactions by title
 - Filter by category, date range, or amount
 - Multiple filter combinations
 - Clear and intuitive filter interface
 
-### 📅 **Transaction Management**
+### **Transaction Management**
 - Add transactions manually or via OCR
 - Edit transaction details
 - Swipe-to-delete functionality
 - View detailed transaction information with bill images
 - Sort transactions by date (newest first)
 
-### 📈 **Monthly Goals & Budgeting**
+### **Monthly Goals & Budgeting**
 - Set monthly spending limits per category
 - Real-time budget tracking
 - Visual indicators for overspending
@@ -57,7 +56,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend & Framework**
 - **Flutter** - Cross-platform mobile app framework
@@ -146,7 +145,7 @@ Before you begin, ensure you have the following installed:
    flutter run
    ```
 
-### **Backend Setup (Optional)**
+### **Backend Setup**
 
 If you want to enable server synchronization:
 
@@ -162,7 +161,7 @@ If you want to enable server synchronization:
 
 ---
 
-## 📱 How to Use
+## How to Use
 
 ### **Adding a Transaction**
 
@@ -214,7 +213,7 @@ If you want to enable server synchronization:
 
 ---
 
-## 📊 Features in Detail
+## Features in Detail
 
 ### **Dashboard**
 - Recent transactions list (last 10)
@@ -246,7 +245,7 @@ If you want to enable server synchronization:
 
 ---
 
-## 🔒 Data Models
+## Data Models
 
 ### **TransactionItem**
 ```dart
@@ -274,7 +273,7 @@ If you want to enable server synchronization:
 
 ---
 
-## 🧪 OCR Text Extraction
+## OCR Text Extraction
 
 The app uses advanced regex patterns to extract bill information:
 
@@ -286,7 +285,7 @@ The app uses advanced regex patterns to extract bill information:
 
 ---
 
-## 🌐 Backend API
+## Backend API
 
 ### **Endpoint**: `POST /add_transaction`
 
@@ -307,7 +306,7 @@ bill_image: file (optional)
 
 ---
 
-## 🎨 UI/UX Highlights
+## UI/UX Highlights
 
 - Material Design 3 with deep purple color scheme
 - Smooth animations and transitions
@@ -319,7 +318,7 @@ bill_image: file (optional)
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
@@ -341,7 +340,7 @@ dev_dependencies:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Multi-currency support
 - [ ] Recurring transactions
@@ -356,7 +355,7 @@ dev_dependencies:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -370,13 +369,13 @@ Please ensure your code follows the existing style and includes appropriate comm
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
@@ -384,7 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Flutter team for the amazing framework
 - Google ML Kit for OCR capabilities
@@ -394,7 +393,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Support
+## Support
 
 If you encounter any issues or have questions:
 - Open an [issue](https://github.com/yourusername/rupeetrack/issues)
@@ -402,10 +401,10 @@ If you encounter any issues or have questions:
 
 ---
 
-## ⭐ Show Your Support
+## Show Your Support
 
 Give a ⭐️ if this project helped you!
 
 ---
 
-**Made with ❤️ and Flutter**
+**Made with Flutter**
