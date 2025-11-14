@@ -1,0 +1,140 @@
+[
+    {
+        "id": "1762008753799278",
+        "title": "Lunch at Cafe",
+        "amount": "8.5",
+        "date": "2025-10-31T20:22:33.797",
+        "categoryId": "1762008753797254",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762008753799384",
+        "title": "Uber to college",
+        "amount": "3.2",
+        "date": "2025-11-01T14:22:33.799",
+        "categoryId": "1762008753797269",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762008753799400",
+        "title": "Groceries",
+        "amount": "25.0",
+        "date": "2025-10-29T20:22:33.799",
+        "categoryId": "1762008753797273",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762008753799409",
+        "title": "Stationery",
+        "amount": "5.0",
+        "date": "2025-10-25T20:22:33.799",
+        "categoryId": "1762008753797273",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762008753799422",
+        "title": "Unknown cash",
+        "amount": "12.0",
+        "date": "2025-10-30T20:22:33.799",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762008842356714",
+        "title": "new one",
+        "amount": "11.0",
+        "date": "2025-11-01T20:23:54.984",
+        "categoryId": "1762008753797254",
+        "items": [],
+        "storeName": "",
+        "billNo": ""
+    },
+    {
+        "id": "1762008872347260",
+        "title": "a new knw again",
+        "amount": "12.0",
+        "date": "2025-11-01T20:24:23.416",
+        "categoryId": "1762008753797269",
+        "items": [],
+        "storeName": "",
+        "billNo": ""
+    },
+    {
+        "id": "1762224125696599",
+        "title": "Lunch at Cafe",
+        "amount": "8.5",
+        "date": "2025-11-03T08:12:05.689",
+        "categoryId": "1762224125680631",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762224125698009",
+        "title": "Uber to college",
+        "amount": "3.2",
+        "date": "2025-11-04T02:12:05.697",
+        "categoryId": "1762224125688838",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762224125698045",
+        "title": "Groceries",
+        "amount": "25.0",
+        "date": "2025-11-01T08:12:05.698",
+        "categoryId": "1762224125689195",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762224125698123",
+        "title": "Stationery",
+        "amount": "5.0",
+        "date": "2025-10-28T08:12:05.698",
+        "categoryId": "1762224125689195",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762224125698221",
+        "title": "Unknown cash",
+        "amount": "12.0",
+        "date": "2025-11-02T08:12:05.698",
+        "storeName": "",
+        "billNo": "",
+        "items": []
+    },
+    {
+        "id": "1762236550145313",
+        "title": "newCat",
+        "amount": "23.0",
+        "date": "2025-11-04T11:38:37.565",
+        "categoryId": "1762236543035113",
+        "items": [],
+        "storeName": "",
+        "billNo": ""
+    },
+    {
+        "id": "1762236702680561",
+        "title": "sdfs",
+        "amount": "23.0",
+        "date": "2025-11-04T11:41:30.582",
+        "items": [],
+        "img_url": "/uploads/37.png",
+        "storeName": "",
+        "billNo": ""
+    }
+]
